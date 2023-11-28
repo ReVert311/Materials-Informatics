@@ -1,1 +1,1 @@
-# Materials-Informatics
+# Spinel-MWDCs-Prediction
